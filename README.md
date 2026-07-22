@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Laila
 
-<!--
-**ulanbatyrova/ulanbatyrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master’s graduate in Bioinformatics / Computational Biology focused on single-cell RNA-seq, developmental biology, and gene regulatory network analysis.
 
-Here are some ideas to get you started:
+## Interests
+- Single-cell transcriptomics
+- Trajectory and pseudotime analysis
+- Gene regulatory networks
+- Biomarker discovery
+- Alternative splicing
+- Reproducible bioinformatics workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Python, R, Bash
+- Seurat, Scanpy, AnnData
+- slingshot, Monocle
+- pySCENIC
+- ggplot2, matplotlib, seaborn
+- Git, GitHub, Linux, Jupyter
+
+## Featured projects
+- Single-cell developmental atlas
+- Gene regulatory network analysis
+- Biomarker discovery pipeline
+- Alternative splicing analysis
+
+## Current focus
+- Building reproducible pipelines
+- Improving biological interpretation
+- Creating clean, well-documented repositories
